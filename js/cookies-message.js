@@ -22,7 +22,7 @@
 	// 001 - Default settings
 
 	var defaults = {
-	messageText: "We use cookies (and other similar technologies) to collect data to improve your experience on our site.",
+	messageText: "Please note this website is currently in active development. All testimonials, statistics, and partner affiliations shown are placeholder content for demonstration purposes only and do not represent actual clients or results.",
 	messageBg: "#ffffff",						// Message box background color
 	messageColor: "#444444",					// Message box text color
 	messageLinkColor: "#ffffff",				// Message box links color
@@ -30,7 +30,7 @@
 	closeColor: "#2e3648",						// Close icon color
 	closeBgColor: "transparent",				// Close icon background color
 	acceptEnable: true,							// Show the Accept button
-	acceptText: "Accept All",		            // Accept button text
+	acceptText: "I understand",		            // Accept button text
 	infoEnable: true,							// Show the More Info button
 	infoText: "Learn More",					    // More Info button text
 	infoUrl: "cookies.html",				    // More Info button URL
